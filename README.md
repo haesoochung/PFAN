@@ -27,7 +27,6 @@ mkdir checkpoints
 cd checkpoints
 ```
 2. Test
-.
 ```
 python main.py --mode test 
 ```
