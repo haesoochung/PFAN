@@ -3,7 +3,7 @@
 Official Tensorflow implementation of our paper: Pyramidal Feature Adjustment Networks for High Dynamic Range Imaging of Dynamic Scenes
 
 ## Overview
-[framework.pdf](https://github.com/haesoochung/PFAN/files/11524958/framework.pdf)
+![framework](https://github.com/haesoochung/PFAN/assets/92298918/9a4763ae-32cc-4dca-988c-487b6ee19cc8)
 
 ## Dependencies
 * Python
