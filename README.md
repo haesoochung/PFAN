@@ -24,3 +24,9 @@ python main.py --mode train
 ```
 python main.py --mode test 
 ```
+
+## Results
+![fig5](https://github.com/haesoochung/PFAN/assets/92298918/7367d018-7971-43dc-a9a0-424c3669c563)
+![fig6](https://github.com/haesoochung/PFAN/assets/92298918/45fbd469-cf70-44ce-8814-6b7b403cc568)
+![fig7](https://github.com/haesoochung/PFAN/assets/92298918/b577ad36-a68c-4f5e-a230-bf7172215d06)
+![fig8](https://github.com/haesoochung/PFAN/assets/92298918/5d831f9d-4536-48fa-8f25-8f3c9b0094a8)
