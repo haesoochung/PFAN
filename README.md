@@ -31,3 +31,5 @@ python main.py --mode test
 ![fig7](https://github.com/haesoochung/PFAN/assets/92298918/b577ad36-a68c-4f5e-a230-bf7172215d06)
 ![fig8](https://github.com/haesoochung/PFAN/assets/92298918/5d831f9d-4536-48fa-8f25-8f3c9b0094a8)
 ![supple1](https://github.com/haesoochung/PFAN/assets/92298918/25e0079b-cdf4-4ad0-ac87-905af6c6ddef)
+![supple2](https://github.com/haesoochung/PFAN/assets/92298918/5a65e48a-3285-42c3-ad02-4e04c420de5d)
+![supple3](https://github.com/haesoochung/PFAN/assets/92298918/19ec70b5-3923-4799-b3d6-ed13c701c6ef)
