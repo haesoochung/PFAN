@@ -1,6 +1,17 @@
 # PFAN
 
-Official Tensorflow implementation of our paper: Pyramidal Feature Adjustment Networks for High Dynamic Range Imaging of Dynamic Scenes
+This repository contains the official Tensorflow implementation of the following paper:
+
+> **Pyramidal Feature Adjustment Networks for High Dynamic Range Imaging of Dynamic Scenes**<br>
+> Haesoo Chung and Nam Ik Cho<br>
+> https://ieeexplore.ieee.org/document/10171364
+>
+> **Abstract:** *Multi-exposure high dynamic range (HDR) imaging aims to generate an HDR image from multiple low dynamic range (LDR) images. There are two main challenges in this task; camera and object
+motions causing ghost artifacts and over/under-exposure areas having no information. To tackle these challenges, we propose a deep neural network that aligns the multiple inputs through feature transformation
+and hallucinates the washed-out areas after fusion. Specifically, we propose a pyramidal feature adjustment network (PFAN) that adjusts the reference image features’ brightness and structure with respect to LDR
+inputs and regard them as the aligned features of the LDR inputs. Then, the features from the PFANs are integrated in a coarse-to-fine manner. They are first merged into an HDR image in a fusion network, and
+the washed-out regions are restored using valid information in a hallucination network. To deal with larger displacements in motion alignment, we also present a progressive training strategy, which begins the training
+with easy samples having little motion and then transfers the network with more dynamic samples. Extensive experiments demonstrate that our method achieves state-of-the-art performance on benchmark datasets.*
 
 ## Overview
 ![framework](https://github.com/haesoochung/PFAN/assets/92298918/9a4763ae-32cc-4dca-988c-487b6ee19cc8)
