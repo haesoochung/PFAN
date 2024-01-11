@@ -27,7 +27,8 @@ with easy samples having little motion and then transfers the network with more 
 ```
 python utils/make_tfrecords.py
 ```
-3. Train
+3. Download the [pre-trained vgg16 model](https://drive.google.com/file/d/1-Pp-ZBzrGxgIh5VlyBWZcRly8QT5ZhnG/view?usp=sharing) in the "utils" folder.
+4. Train
 ```
 python main.py --mode train
 ```
